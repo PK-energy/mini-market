@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+* {
+    transition: 0.2s;
+}
